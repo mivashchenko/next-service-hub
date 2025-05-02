@@ -1,0 +1,13 @@
+{
+  "name": "next-service-hub",
+  "version": "1.0.0",
+  "description": "A unified interface for third-party services (auth, email, subscriptions, and more) — built for Next.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maksym Ivashchenko",
+  "license": "ISC",
+  "packageManager": "pnpm@10.10.0"
+}
